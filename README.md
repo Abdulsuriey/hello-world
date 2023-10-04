@@ -9,3 +9,4 @@ documenting incidents with an incident handler's journal,
 importing and parsing a text file in a security-related scenerio.
 I used some general and technical skills and accomplishing this tasks including:python,SQL,linux, frameworks like NIST CSF etc.
 I am still hoping to expand my knowledge in the cybersecurity field by participating in hackathons and taking more exams in the cyber security field.
+ 
